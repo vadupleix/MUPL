@@ -245,7 +245,7 @@
                                        e4
                                        e3))))
 
-;; Problem 4
+;;
 
 (define mupl-filter
   (fun "f-out" "f"
